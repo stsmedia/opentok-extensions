@@ -1,0 +1,11 @@
+  {
+      "name": "simple-opentok-extensions",
+      "version": "0.0.1",
+      "description": "Simple OpenTok server",
+      "main": "server.js",
+      "author": "Stefan Schmidt",
+      "dependencies": {
+          "opentok": "",
+          "express": ""
+      }
+  }
